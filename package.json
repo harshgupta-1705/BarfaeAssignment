@@ -1,0 +1,32 @@
+{
+  "name": "barfaeassignment",
+  "version": "1.0.0",
+  "description": "Barfae Intern assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshgupta-1705/BarfaeAssignment.git"
+  },
+  "keywords": [
+    "express",
+    "Get",
+    "Post",
+    "Routes",
+    "Controllers"
+  ],
+  "author": "Harsh Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harshgupta-1705/BarfaeAssignment/issues"
+  },
+  "homepage": "https://github.com/harshgupta-1705/BarfaeAssignment#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.5"
+  }
+}
