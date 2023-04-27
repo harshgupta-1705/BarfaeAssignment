@@ -16,7 +16,7 @@ http://localhost:[port]/get
 
 ![alt text](https://github.com/harshgupta-1705/BarfaeAssignment/blob/main/sample_get.png?raw=true)
 
-# API's URL format for Get
+# API's URL format for Post
 http://localhost:[port]/post
 To post send name, email, phone in json format in body.
 
