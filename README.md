@@ -11,12 +11,12 @@ The assignment is to write a GET API and a POST API. Use stack of your choice. U
 ![alt text](https://github.com/harshgupta-1705/BarfaeAssignment/blob/main/sample_format_env.png?raw=true)
 
 # API's URL format for Get
-http://localhost:<port>/get
+http://localhost:[port]/get
 
 ![alt text](https://github.com/harshgupta-1705/BarfaeAssignment/blob/main/sample_get.png?raw=true)
 
 # API's URL format for Get
-http://localhost:<port>/post
+http://localhost:[port]/post
 To post send name, email, phone in json format in body.
 
 ![alt text](https://github.com/harshgupta-1705/BarfaeAssignment/blob/main/sample_post.png?raw=true)
