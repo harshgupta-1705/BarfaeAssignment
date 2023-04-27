@@ -4,7 +4,8 @@ The assignment is to write a GET API and a POST API. Use stack of your choice. U
 # Setup guide
 1. clone repo
 2. In the root directory run command "npm i" to install required dependencies.
-3. Create .env file in root directory which contains these field : PORT and DBURL
+3. Create .env file in root directory which contains these field : PORT and DBURL refer to sample image attached in this readme.
+4. run command "node index.js" in root directory to start.
 
 # sample .env
 
